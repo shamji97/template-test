@@ -1,0 +1,4 @@
+To download git = https://gitforwindows.org/
+For Font awsome CDNjs = https://cdnjs.com/libraries/font-awesome
+font awsome icons for free = https://fontawesome.com/v5.15/icons?d=gallery&p=2&q=close&m=free
+Google favicon or make your own favicons (for title bar)=  https://css-tricks.com/favicons-next-to-external-links/
